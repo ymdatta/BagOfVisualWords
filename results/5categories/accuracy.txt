@@ -1,0 +1,11 @@
+k = 200
+Accuracy = 53
+
+k = 400
+Accuracy = 81
+
+k = 600
+Accuracy = 81
+
+k = 800
+Accuracy = 800
