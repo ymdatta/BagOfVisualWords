@@ -1,6 +1,8 @@
 # BagOfVisualWords
 Image categorization using Bag of visual words approach.
 
+Uses opencv python-contrib SIFT for feature extraction and scikit-learn's SVM.
+
 This is python implementation of Bag of visual words model, which again
 is based on the paper by Csurka et al[1].
 
