@@ -6,7 +6,7 @@ Uses opencv python-contrib SIFT for feature extraction and scikit-learn's SVM.
 This is python implementation of Bag of visual words model, which again
 is based on the paper by Csurka et al[1].
 
-Please refer [my blog post](https://ymdatta.github.io/2018/08/19/bag-of-visual-words.html),
+Please refer [here](https://ymdatta.github.io/2018/08/19/bag-of-visual-words.html),
 for details regarding implementation of the model.
 
 #### Things you need to install before running:
