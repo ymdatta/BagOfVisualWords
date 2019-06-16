@@ -25,7 +25,7 @@ def get_image_dict(categories, i_type="test"):
             add_images(category, image_dict, index, i_type)
         return image_dict
     else:
-        raise Error("image type is not test or train")
+        raise ValueError("Image type is not test or train")
 
 
 def add_images(category, image_dict, index, i_type="test"):
