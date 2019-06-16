@@ -1,13 +1,11 @@
 """
-    This file(Kmeans_clustering.py) is used to create 
+    This file(Kmeans_clustering.py) is used to create
     a visual vocabulary from various images.
 
-    This is further used while training a SVM 
+    This is further used while training a SVM
     classifier.
 """
-import cv2
 import os
-import numpy as np
 
 from sklearn.cluster import KMeans
 from sklearn import svm
