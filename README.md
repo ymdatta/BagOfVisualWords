@@ -83,3 +83,6 @@ Documentation:
 
 References:
 * (1)[https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/csurka-eccv-04.pdf].
+
+Feel free to open an [Issue](https://github.com/ymdatta/BagOfVisualWords/issues)
+if you face any problem. :)
